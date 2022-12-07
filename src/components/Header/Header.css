@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  background-color: #282c34;
+  min-height: 10vh;
+  color: white;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+}
+
+.header-link {
+  text-decoration: none;
+  color: white;
+}
