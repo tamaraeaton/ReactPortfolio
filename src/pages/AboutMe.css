@@ -1,0 +1,13 @@
+.downloadResumeButton {
+  margin-top: 50px;
+  margin-left: 300px;
+  width: 150px;
+  height: 50px;
+}
+
+.downloadResumeButtonLink {
+  text-decoration: none;
+  color: black;
+  font-size: large;
+  font-weight: 300;
+}
