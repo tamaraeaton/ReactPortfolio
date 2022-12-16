@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "../components/Header/Header";
 import Resume from "../assets/files/TamaraEatonResume.docx";
+import "./AboutMe.css";
 
 const AboutMe = () => {
   return (
@@ -13,8 +14,9 @@ const AboutMe = () => {
           experience in software development. I bring a wealth of other
           experience to the table. Please download my resume.
         </h1>
-        <button>
+        <button className="downloadResumeButton">
           <a
+            className="downloadResumeButtonLink"
             href={Resume}
             target="blank"
             download

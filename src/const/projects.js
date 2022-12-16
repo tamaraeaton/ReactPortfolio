@@ -1,4 +1,4 @@
 export const PROJECTS = {
-  triviaFighters: "https://github.com/tamaraeaton/trivia-fighters",
+  triviaFighters: "https://tamaraeaton.github.io/trivia-fighters",
   TVShowChallenge: "https://github.com/tamaraeaton/challenge",
 };
