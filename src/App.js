@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter basename="/portfolio">
+    <BrowserRouter basename="/ReactPortfolio">
       <Routes />
     </BrowserRouter>
   );
