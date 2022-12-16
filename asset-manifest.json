@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.4478fe27.css",
-    "main.js": "/ReactPortfolio/static/js/main.359a087e.js",
+    "main.js": "/ReactPortfolio/static/js/main.6d06b0f5.js",
     "static/js/787.1ed0c42c.chunk.js": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/question-mark-black.png": "/ReactPortfolio/static/media/question-mark-black.c0bf1e088c0d470437c2.png",
     "static/media/TamaraEatonResume.docx": "/ReactPortfolio/static/media/TamaraEatonResume.d9b288be577ed191e06f.docx",
     "index.html": "/ReactPortfolio/index.html",
     "main.4478fe27.css.map": "/ReactPortfolio/static/css/main.4478fe27.css.map",
-    "main.359a087e.js.map": "/ReactPortfolio/static/js/main.359a087e.js.map",
+    "main.6d06b0f5.js.map": "/ReactPortfolio/static/js/main.6d06b0f5.js.map",
     "787.1ed0c42c.chunk.js.map": "/ReactPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4478fe27.css",
-    "static/js/main.359a087e.js"
+    "static/js/main.6d06b0f5.js"
   ]
 }
