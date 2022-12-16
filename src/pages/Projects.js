@@ -27,10 +27,21 @@ const Projects = () => {
           <h3>
             This is a React App that searches for TV Shows and Displays the
             results. You can click on a TV Show to see the details of that show.
-            It is built using React, Typescript.
           </h3>
           <div className="image-div">
             <a href={PROJECTS.TVShowChallenge}>
+              <img className="projectImage" src={Project1}></img>
+            </a>
+          </div>
+          <div>
+          <h1>TV Show API After Apprenticeship</h1>
+          <h3>
+            This is a React App that searches for TV Shows and Displays the
+            results. You can click on a TV Show to see the details of that show.
+            It is built using React, Typescript.
+          </h3>
+          <div className="image-div">
+            <a href={PROJECTS.ChallengeAfter}>
               <img className="projectImage" src={Project1}></img>
             </a>
           </div>
